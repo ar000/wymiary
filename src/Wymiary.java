@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-
+//aaaaaa======================
 public class Wymiary{
 	private JFrame okno  = new JFrame();
 	JTextField widD = new JTextField();
